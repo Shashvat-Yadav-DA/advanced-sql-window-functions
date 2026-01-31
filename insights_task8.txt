@@ -1,0 +1,12 @@
+1. Top Customers Matter Most
+The analysis shows that only a few customers bring most of the total sales in each country.
+This means the business depends a lot on its top customers, so keeping them happy is very
+important.
+
+2. Sales Are Different by Country
+Customer ranking by country shows that some countries perform much better than others.
+Sales are not equally distributed across all regions.
+
+3. Monthly Sales Change Over Time
+Month-over-Month analysis shows that sales go up in some months and go down in other months.
+This shows seasonal behavior and helps in better planning for sales and inventory.
